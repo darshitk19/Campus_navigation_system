@@ -1,2 +1,14 @@
-# Campus_navigation_system
-An interactive campus navigation tool using Python, Gradio, and Folium to help users find the best routes within a campus. Users can select locations, visualize paths, and explore the campus through an intuitive web interface.
+# 🗺️ Campus Navigation System - Gradio + Folium
+
+An interactive **campus navigation tool** built with **Python, Gradio, and Folium**, designed to help users find optimal paths within a campus.
+
+# 🚀 Features
+- 🌍 **Dynamic map rendering** using **Folium**
+- 🖥️ **Interactive UI** with **Gradio**
+- 📍 **User input for selecting locations**
+
+
+# 🔧 Technologies Used
+- Python 🐍  
+- Gradio 🎨  
+- Folium 🌍  
