@@ -1,0 +1,69 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #e6f2ff;  /* Light blue background */
+    margin: 0;
+    padding: 0;
+    color: #003366;  /* Dark blue text */
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 0 16px rgba(0, 119, 204, 0.2);  /* CHARUSAT blue shadow */
+}
+
+h1 {
+    color: #0077cc;  /* CHARUSAT primary blue */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+select, button {
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 1px solid #0077cc;
+    background-color: #f0faff;  /* very light blue for input */
+}
+
+select:focus, button:focus {
+    outline: none;
+    border-color: #005999;
+}
+
+button {
+    background-color: #0077cc;
+    color: white;
+    font-weight: 600;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #005999;
+}
+
+/* ✅ Mobile responsiveness */
+@media (max-width: 600px) {
+    .container {
+        margin: 20px;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    select, button {
+        font-size: 15px;
+        padding: 10px;
+    }
+}
