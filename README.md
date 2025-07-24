@@ -40,7 +40,7 @@ http://127.0.0.1:5000
 You'll see an interactive dropdown-based map UI for navigation. 🗺️
 
 📁 Project Structure
-
+```
 Campus_navigation_system/
 ├── app.py                # Main Flask application logic
 ├── requirements.txt      # Python dependencies
@@ -55,7 +55,7 @@ Campus_navigation_system/
 └── static/               # Static assets (CSS, JS, icons)
     └── style.css         # (Optional) Custom styles
 
-
+```
 📌 Notes
 ✅ Ensure .geojson path files are inside the data/PATHS/ folder.
 
@@ -63,8 +63,22 @@ Campus_navigation_system/
 
 ✅ Routes are visualized dynamically using Folium on each request.
 
-📷 Screenshot
+## 📸 Screenshot
+
+> Here's a glimpse of the Campus Navigation System running locally:
 
 
-👤 Author
+
+## 📸 Screenshots
+
+# 🧭 UI with Dropdown & Map
+![Campus_navigation_system](IMAGES/Screenshot%2025-07-24%135738.png)
+
+# 📍 Route Highlight Example
+![Campus_navigation_system](IMAGES/Screenshot%2025-07-24%135752.png)
+
+
+
+
+### 👤 Author
 Darshit Kachhadiya
