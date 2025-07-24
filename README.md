@@ -63,19 +63,14 @@ Campus_navigation_system/
 
 ✅ Routes are visualized dynamically using Folium on each request.
 
-## 📸 Screenshot
 
-> Here's a glimpse of the Campus Navigation System running locally:
-
-
-
-## 📸 Screenshots
+### 📸 Screenshots
 
 # 🧭 UI with Dropdown & Map
-![Campus_navigation_system](IMAGES/Screenshot%2025-07-24%135738.png)
+![Campus_navigation_system](IMAGES/Screenshot%202025-07-24%20135738.png)
 
 # 📍 Route Highlight Example
-![Campus_navigation_system](IMAGES/Screenshot%2025-07-24%135752.png)
+![Campus_navigation_system](IMAGES/Screenshot%202025-07-24%20135752.png)
 
 
 
